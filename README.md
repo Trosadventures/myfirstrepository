@@ -1,1 +1,1 @@
-# myfirstrepository
+# learning is the first step
